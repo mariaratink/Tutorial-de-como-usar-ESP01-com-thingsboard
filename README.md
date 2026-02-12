@@ -23,8 +23,8 @@ No menu lateral, clique em **Devices** para visualizar os dispositivos cadastrad
 ---
 ### Adicionar novo dispositivo
 
-![Passo 2](imagens/passo2.png)
 Clique no botão **+ Add device** no canto superior direito.
+![Passo 2](imagens/passo2.png)
 Na janela que abrir:
 - Preencha o campo **Name** (ex: ESP01)
 - Mantenha o **Device profile** como `default`
