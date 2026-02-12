@@ -2,7 +2,7 @@
 Repositório desenvolvido por Maria Clara Nadim Martiniano e Ismael Ritchard da Silva, apresentando um guia completo de integração do módulo ESP-01 (ESP8266) com a plataforma ThingsBoard Cloud. O projeto inclui configuração do dispositivo, implementação do código-fonte, esquemas de ligação e envio de telemetria via protocolo MQTT.
 
 
-## Materiais necessários:
+## Materiais necessários
 - ESP-01 (ESP8266)
 - Microcontrolador (usada no tutorial foi STM32 Nucleo-F401RE)
 - Protoboard
